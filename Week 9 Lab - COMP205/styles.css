@@ -1,11 +1,22 @@
+/*
+  This styles all paragraphs to be blue.
+*/
 p {
   color: blue;
 }
 
+/*
+  This gives a font-size of 73px to all paragraphs
+  with the class 'large-text'.
+*/
 p.large-text {
   font-size: 73px;
 }
 
+/*
+  This styles <h1> in .div-1 SPECIFICALLY. It does
+  not affect any other <h1>
+*/
 .div-1 h1 {
   font-family: Arial;
   color: orange;
