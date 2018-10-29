@@ -1,0 +1,13 @@
+p {
+  color: blue;
+}
+
+p.large-text {
+  font-size: 73px;
+}
+
+.div-1 h1 {
+  font-family: Arial;
+  color: orange;
+  font-style: italic;
+}
